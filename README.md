@@ -133,3 +133,7 @@ Points are scored as follows: eating another "apple" adds one point.
 ### Part 3. Bonus. Level Mechanics
 
 Add level mechanics to the game. Each time a player gains 5 points, the level increases by 1. Increasing the level increases the snake's speed. The maximum number of levels is 10.
+
+___
+
+Your project will require a code review — don't forget to check out the instructions for conducting and completing a code review on the provided [link](https://applicant.21-school.ru/code_review).
